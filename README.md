@@ -39,6 +39,18 @@ Everyday Functioning Prompts:
  
   “How is encryption used in daily life when sending WhatsApp messages?”
 
-  OUTPUT:
+  OUTPUT:Comparative Analysis Prompt
+
+“Compare and critically analyze Smartphone A and Smartphone B by evaluating their battery life, AI-powered camera capabilities, processor speed, RAM and storage capacity, display quality, operating system performance, charging speed, durability, gaming experience, and overall price. Explain how each smartphone performs in real-life situations such as social media usage, attending online classes, video conferencing, photography, video editing, multitasking, gaming, streaming movies, and internet browsing. Discuss the strengths and weaknesses of both smartphones in terms of user experience, long-term performance, software updates, and value for money. Additionally, analyze which smartphone is more suitable for students, working professionals, and regular users who require a reliable device for communication, entertainment, productivity, and everyday functioning. Conclude by recommending the better smartphone with proper justification based on performance, affordability, and practical usability.”
+
+Experiential Perspective Prompt
+
+“From the perspective of a college student and daily smartphone user, describe your experience of using a modern smartphone that includes features such as an AI-powered camera, long-lasting battery, fast processor, high-quality display, and smooth multitasking capabilities. Explain how these features help you perform daily activities like attending online classes, completing assignments, participating in video calls, browsing social media, capturing photographs and videos, editing content, playing games, watching online movies, listening to music, and managing personal schedules. Discuss how smartphone technologies improve communication, convenience, productivity, learning, and entertainment in your daily routine. Also explain the practical challenges you may face, such as battery drainage, storage limitations, distractions from excessive smartphone usage, heating issues, or network connectivity problems, and describe how these challenges affect your everyday experience. Finally, share your opinion on how smartphones have become an essential part of modern student life and digital communication.”
+
+Everyday Functioning Prompt
+
+“Explain in detail how smartphones and their advanced technologies support and improve everyday life for students, professionals, and regular users. Describe the role of AI-powered cameras, facial recognition systems, fingerprint sensors, battery optimization technology, cloud storage, voice assistants, fast processors, and high-speed internet connectivity in daily activities such as communication, online learning, digital payments, navigation, online shopping, photography, entertainment, social networking, fitness tracking, and productivity management. Discuss how smartphones are integrated into modern lifestyles and how applications like WhatsApp, YouTube, Google Maps, Instagram, Zoom, and online banking apps use artificial intelligence and smart technologies to provide efficient and user-friendly experiences. Also explain the importance of smartphones in emergency communication, information access, and remote collaboration, while highlighting both the benefits and possible disadvantages of excessive smartphone dependency in everyday functioning.”
 
   RESULT:
+  Generate the Prompt for the following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts. is successfully completed
+
